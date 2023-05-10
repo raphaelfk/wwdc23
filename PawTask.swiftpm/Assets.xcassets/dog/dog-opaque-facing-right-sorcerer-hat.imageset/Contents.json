@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "dog-opaque-facing-right-sorcerer-hat.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "dog-opaque-facing-right-sorcerer-hat@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "dog-opaque-facing-right-sorcerer-hat@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
