@@ -2,7 +2,7 @@
   <img align="right" src="Resources/app-icon.png" width=74px>
 </h1>
 
-![WWDC23 Swift Student Challenge Winner] (Resources/swift-challenge-winner.png)
+![WWDC23 Swift Student Challenge Winner](Resources/swift-challenge-winner.png)
 
 ## About
 PawTask is an app that teaches users some basic principles about organization and that helps them manage their tasks and plan their day. You'll be introduced to the app features by Cooper, the app's dog, and, after adding your tasks, and organizing them by priority, the app can plan which tasks you'll be able to do in the time you have for the day!
