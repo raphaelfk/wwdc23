@@ -5,8 +5,8 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="Resources/swift-challenge-winner-light.png#gh-light-mode-only" width=250px>
-  <img align="center" src="Resources/swift-challenge-winner-dark.png#gh-dark-mode-only" width=250px>
+  <img align="center" src="Resources/swift-challenge-winner-light.png#gh-light-mode-only" width=275px>
+  <img align="center" src="Resources/swift-challenge-winner-dark.png#gh-dark-mode-only" width=275px>
 </p>
 
 ## About
@@ -14,12 +14,14 @@ PawTask is an app that teaches users some basic principles about organization an
 
 This aplication can help people by doing most of their planning automatically, saving them time, that can be better spent with friends, family or getting ahead of their tasks, while also providing more peace of mind and reducing daily anxiety.
 
+![](Resources/app-preview.png)
+
 ## Run device
 The app was made, primarly for iPhone devices in vertical orientation.
-The app still does not fully support dark mode.
+The app still does not fully support dark mode. It can also be run through the Xcode simulator.
 
 ## Assets and sound
-All of the app assets were made by me, and the done sound was also recorded by me.
+All of the app assets were made by me, and the done sound was also recorded by me!
 
 ## Features
 - [x] Add any task you'd like, with a title, a description and a time estimative for it
